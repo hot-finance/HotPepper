@@ -6,7 +6,7 @@ Rather than allocating a portion of the supply to the founding team, HOT is bein
 ## Token
 **Token Symbol**: HOT(HotPepper)
 
-**Token Contract**: TVeE484rmP47s5JHcxTMmDmFJv9LEx9ih7
+**Token Contract**: TGghzFsbiKySEid4ob6FmbqDLLZRjg6SYb
 
 **Total Supply**: 50,000 HOT
 
