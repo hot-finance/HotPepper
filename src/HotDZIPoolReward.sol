@@ -5,7 +5,7 @@
 /___/ \_, //_//_/\__//_//_/\__/ \__//_/ /_\_\
      /___/
 
-* Synthetix: JFIReward.sol
+* Synthetix: HotDZIPoolReward.sol
 *
 * Docs: https://docs.synthetix.io/
 *
