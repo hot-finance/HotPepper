@@ -1,6 +1,6 @@
 # hotpepper.finance
 ## This Project is in beta, use at your own risk.
-HOT is an experimental protocol building upon the most exciting innovations in programmable money and governance, initially targeting 10 USD per HOT, employs a fair distribution mechanism that incentivizes key community members to actively take the reins of governance.
+HOT is an experimental protocol building upon the most exciting innovations in programmable money and governance, employs a fair distribution mechanism that incentivizes key community members to actively take the reins of governance.
 
 Rather than allocating a portion of the supply to the founding team, HOT is being distributed in the spirit of YFI: no pre-mine, no founder shares, no VC interests — simply equal-opportunity staking distribution to attract a broad and vision-aligned community to steward the future of the protocol and token.
 ## Token
