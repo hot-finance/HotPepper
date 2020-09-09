@@ -4,7 +4,7 @@ When HOT is produced and reaches 15,000, we will start token burning!!!
 
 When each HOT is transferred, part of the tokens will be destroyed and one Part of the tokens enter the prize pool, and the remaining tokens will be moved to the receiver's hands.
 
-## The following is a detailed example:
+The following is a detailed example:
 
 + <Address A> tries to transfer 1000 HOT to <Address B>;
 
@@ -19,7 +19,7 @@ The initial combustion rate is 1% and Sale burning rate will little higher than 
 When all the peppers in the farm are produced, the community determines the subsequent burning rate.
 
 
-Holding tokens dividends and Dividends to LP holders.
+## Holding tokens dividends and Dividends to LP holders.
 
 The tokens in the prize pool will be used to reward LP holders and inject liquidity into Hot. 
 
@@ -27,7 +27,7 @@ The liquidity fee will be used to repurchase the Hot Token sold by users.
 
 Part of which will resevrve by Development Team.
 
-## There are two conditions for participating in currency dividends:
+There are two conditions for participating in currency dividends:
 + Within 24 hours before the snapshot, the address was transferred without Hot;
 + Within 24 hours before the snapshot, the number of HOTs at this address has been maintained ≥ 3 (this number will decrease as the value of HOT rises).
 
@@ -36,6 +36,6 @@ Detailed rules will be announced later.
 
 
 
-Build an ecology together.
+## Build an ecology together.
 
 Detailed rules will be announced later.
