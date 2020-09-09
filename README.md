@@ -24,25 +24,25 @@ Distribution: Pool v1, Pool v2, Pool v3. Pool v1 will last 7days,Pool v2 and Poo
 
 DZI: 40%   
 Token address:TLi2o9XadMAonBJvzoj1kHBkNe6Nh1SaZ3\
-Pool address:Wait for announcement\
+Pool address:TGCpgDcz1zNWuGLHpXt1DkqeZ8Kb5qMB47\
 7 Days supply:4,000 HOT\
 Per day supply:571 HOT/per day
 
 TAI: 20%
 Token address: TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P\
-Pool address: Wait for announcement\
+Pool address: TNfT71aw16kdcQRL8okcBiQUZpv7m9Jhvh\
 7 Days supply: 2,000 HOT\
 Per day supply: 285 HOT/per day
 
 PEARL: 20% 
 Token address: TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq\
-Pool address: Wait for announcement\
+Pool address: TAALYQJZwfmGsYy2aVN89nNPSfve37GYvX\
 7 Days supply: 2,000 HOT\
 Per day supply: 285 HOT/per day
 
 JFI: 20% 
 Token address: TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha\
-Pool address: Wait for announcement\
+Pool address: TGH51nUqD57JPGVQ8gxtD5SCpMQ4APwbza\
 7 Days supply: 2,000 HOT\
 Per day supply: 285 HOT/per day
 
@@ -50,7 +50,7 @@ Per day supply: 285 HOT/per day
 
 USDt: 60% 
 Token address: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t\
-Pool address: Wait for announcement\
+Pool address: TQLbsEQkY577rcDv333ChHzaovRuady63q\
 7 Days supply: 3,000 HOT\
 Per day supply: 428 HOT/per day
 
