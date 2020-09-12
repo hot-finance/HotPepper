@@ -30,7 +30,7 @@ https://t.me/hot_pepper_official
 
 交易燃烧触发条件：
 
-所有的转账，包括普通转账、justswap swap、justswap add liquidity操作 ，以上三个操作触发时均会产生燃烧。
+所有的转账，包括普通转账、justswap swap、justswap add liquidity操作（生成的LP令牌抵押不会进行燃烧） ，以上三个操作触发时均会产生燃烧。
 
 交易燃烧会包括以下三个部分：每个部分的目标地址均会公示，以下比例为初始比例，由社区进行投票通过后执行
 
