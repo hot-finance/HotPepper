@@ -14,7 +14,11 @@ Rather than allocating a portion of the supply to the founding team, HOT is bein
 
 **Telegram link**:https://t.me/hot_pepper_official
 
-Token Burning and Holder dividends:https://github.com/hot-finance/HotPepper/blob/master/TokenBurning.md
+Token Burning and Holder dividends:
+
+https://github.com/hot-finance/HotPepper/blob/master/TokenBurning(EN).md
+                                   
+https://github.com/hot-finance/HotPepper/blob/master/TokenBurning(CN).md
 
 Distribution: Pool v1, Pool v2, Pool v3. Pool v1 will last 7days,Pool v2 and Pool v3 will determined by the community.
 
