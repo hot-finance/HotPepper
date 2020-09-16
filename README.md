@@ -88,7 +88,7 @@ Sun: 20%
 ## Pool v2 (Only support DHOT)
 Farm 5,000 HotPepper with Liquidity Provider tokens. Please note Tronscan explorer currently is unable to show LP tokens.
 
-DHOT-TRX JUSTSWAP LP: 50%
+DHOT-TRX JUSTSWAP LP: The pool ratio and duration depend on the amount of DHOT burned.
 
 The following LP pool will Voted by the community(Must have DHOT tokens).
 
