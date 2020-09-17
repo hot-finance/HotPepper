@@ -103,13 +103,15 @@ The 2.1% dividend pool generated during the transaction burning will include the
        
        We will reserve 10% of the subsequent injection of liquidity, and the obtained processing fees will be used to buy back HOT.(The plan is reserved)
        
-There are two conditions for participating in currency dividends:
+There are three conditions for participating in currency dividends:
 
-  1. Within 24 hours before the snapshot, there is no HOTT transfer from this address;
-  
-  2. In the 24 hours before the snapshot, the number of HOTTs in this address has been maintained ≥ 10 (this ratio is determined by community voting).
-  
-  The design of HOT to evenly share the dividends when the standard is reached makes it no longer a game of giant whales to hold currency dividends, and experimenters with small funds can also get a lot of money.
+1.Within 24 hours before the snapshot, there is no DHOT transfer from this address;
+
+2.Within 24 hours before the snapshot, the DHOT holding amount of this address ≥ 500 u (it has been determined by community voting).
+
+3.Within 24 hours before the snapshot, the address has DHOT transfer (must be Justswap swap for exchange).
+
+DHOT is designed to evenly share dividends when the standard is met. We hope that more users can join the top 50% of the currency holding addresses, so as to stimulate the currency price to rise, so that the holding of currency dividends is no longer a game of giant whales, an experiment with a small amount of funds People can also get significant benefits.
   
 ## FOMO
 
