@@ -29,7 +29,7 @@ We will strictly control the output of the LP mining pool to maintain the circul
 
 **Total Supply**: 50,000 HOT
 
-**Twitter link**:https://twitter.com/DeFi_Hotpepper
+**Twitter link**:https://twitter.com/lovehotpepper
 
 **Telegram link**:https://t.me/hot_pepper_official
 
